@@ -1,4 +1,4 @@
-# 
+# Automático VisionSense configuración. Descarga e instala con sin dependencias y instalación en un clic — rápido, seguro y fácil de usar.
 
 
 
